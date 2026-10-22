@@ -12,4 +12,4 @@ I'm building my data portfolio in public: analysis projects using real UK datase
 Python · SQL · Data Analysis · Data Visualisation · Tableau · Excel
 
 ## Get in touch
-- LinkedIn: [add your link here](https://www.linkedin.com/in/shreyas-pratihar/?isSelfProfile=true)
+- LinkedIn: [shreyas-pratihar](https://www.linkedin.com/in/shreyas-pratihar/?isSelfProfile=true)
