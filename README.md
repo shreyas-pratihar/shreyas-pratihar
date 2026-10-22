@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shreyas 👋
 
-<!--
-**shreyas-pratihar/shreyas-pratihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Data Science graduate (University of Glasgow), currently living in Dundee, UK.
 
-Here are some ideas to get you started:
+I'm building my data portfolio in public: analysis projects using real UK datasets, with the code and write-ups here on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Portfolio website (coming soon)
+- Data analysis projects with Python and SQL (coming soon)
+
+## Skills
+Python · SQL · Data Analysis · Data Visualisation · Tableau · Excel
+
+## Get in touch
+- LinkedIn: [add your link here](https://www.linkedin.com/in/shreyas-pratihar/?isSelfProfile=true)
